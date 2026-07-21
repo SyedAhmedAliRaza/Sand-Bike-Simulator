@@ -10,6 +10,12 @@
   <b>A highly dynamic, physics-based 2D racing game developed in Flutter using the Flame engine and Forge2D.</b>
 </p>
 
+<p align="center">
+  <a href="YOUR_APK_URL_HERE">
+    <img src="https://img.shields.io/badge/Download_APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+</p>
+
 ---
 
 ## 🌟 Overview

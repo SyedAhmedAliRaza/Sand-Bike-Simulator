@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_APK_URL_HERE">
+  <a href="https://github.com/SyedAhmedAliRaza/Sand-Bike-Simulator/releases/download/v1.0.0-beta.1/app-release.apk">
     <img src="https://img.shields.io/badge/Download_APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
 </p>
